@@ -1,0 +1,182 @@
+{
+  "personal": {
+    "name": "Prema Meti",
+    "title": "MCOM Part 1 Student | Aspiring Business Professional",
+    "tagline": "Exploring business, marketing, finance, and entrepreneurship.",
+    "location": "Goa, India",
+    "email": "your.premameti898@gmail.com",
+    "phone": "+91 98765 43210",
+    "linkedin": "https://www.linkedin.com/in/premameti",
+    "github": "https://github.com/premameti898",
+    "profileImage": "",
+    "resume": "#"
+  },
+
+  "about": {
+    "heading": "About Me",
+    "description": "I am a First Year Masters of Commerce student with a keen interest in business, marketing, finance, entrepreneurship, and technology. I enjoy learning how businesses work and developing practical skills through projects, presentations, and extracurricular activities.",
+    "shortDescription": "A curious MCOM Part 1 student passionate about business, creativity, and continuous learning."
+  },
+
+  "education": [
+    {
+      "degree": "Masters of Commerce (MCOM)",
+      "institution": "S.S. Dempo College (Autonomous)",
+      "location": "Goa, India",
+      "duration": "2026 - Present",
+      "description": "Currently pursuing a Masters of Commerce with an interest in marketing, management, and entrepreneurship."
+    },
+    {
+      "degree": "Bachelors of Commerce (MCOM)",
+      "institution": "S.S. Dempo College (Autonomous)",
+      "location": "Goa, India",
+      "duration": "2023 - 2026",
+      "description": "Completed Bachelors of Commerce with an interest in marketing, management, and entrepreneurship."
+      "grade": "8.95"
+    },
+    {
+
+
+      "degree": "Higher Secondary Education",
+      "institution": "MES Higher Secondary",
+      "location": "Goa, India",
+      "duration": "2024 - 2026",
+      "description": "Completed higher secondary education with a focus on commerce and business-related subjects.",
+      "grade": "70%"
+    },
+    {
+      "degree": "Secondary School Certificate",
+      "institution": "Mother of Mercy English High School",
+      "location": "Goa, India",
+      "duration": "2024",
+      "description": "Completed secondary school education.",
+      "grade": "75%"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Communication",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "Beginner"
+    },
+    {
+      "name": "PowerPoint",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Canva",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Public Speaking",
+      "level": "Beginner"
+    },
+    {
+      "name": "Teamwork",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Leadership",
+      "level": "Beginner"
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "Beginner"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Business Plan Project",
+      "description": "Created a hypothetical business plan covering the business idea, target market, competitors, marketing strategy, and basic financial projections.",
+      "technologies": [
+        "PowerPoint",
+        "Canva",
+        "Excel"
+      ],
+      "year": "2026",
+      "link": "#"
+    },
+    {
+      "title": "Market Research Project",
+      "description": "Conducted a small-scale market research project to understand customer preferences and analyze responses.",
+      "technologies": [
+        "Google Forms",
+        "Excel",
+        "Data Analysis"
+      ],
+      "year": "2026",
+      "link": "#"
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "description": "Designed and developed a responsive personal portfolio website using HTML, CSS, JavaScript, and JSON.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON"
+      ],
+      "year": "2026",
+      "link": "#"
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Introduction to Digital Marketing",
+      "issuer": "Example Platform",
+      "year": "2026",
+      "link": "#"
+    },
+    {
+      "name": "Excel for Beginners",
+      "issuer": "Example Platform",
+      "year": "2026",
+      "link": "#"
+    }
+  ],
+
+  "achievements": [
+    {
+      "title": "College Presentation Competition",
+      "description": "Participated in an inter-college presentation competition.",
+      "year": "2026"
+    },
+    {
+      "title": "Business Quiz",
+      "description": "Participated in a business and entrepreneurship quiz.",
+      "year": "2026"
+    }
+  ],
+
+  "interests": [
+    "Business",
+    "Marketing",
+    "Finance",
+    "Entrepreneurship",
+    "Technology",
+    "Public Speaking",
+    "Reading",
+    "Cricket"
+  ],
+
+  "languages": [
+    {
+      "name": "English",
+      "level": "Fluent"
+    },
+    {
+      "name": "Hindi",
+      "level": "Fluent"
+    },
+    {
+      "name": "Konkani",
+      "level": "Native"
+    }
+  ]
+}
